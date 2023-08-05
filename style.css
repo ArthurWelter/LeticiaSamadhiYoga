@@ -353,3 +353,6 @@ picture img{
     color: var(--white);
 }
 
+.voltar a{
+    text-decoration: none;
+}
